@@ -1,14 +1,32 @@
-node_modules/
-.expo/
-dist/
+# Logs
+logs
+*.log
 npm-debug.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directory
+node_modules/
+
+# Misc
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-web-build/
-
-# macOS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Expo
+.expo/
+
+# Dist
+dist/
+web-build/

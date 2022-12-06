@@ -1,7 +1,31 @@
 {
 	"name": "weathex",
 	"version": "1.0.0",
+	"description": "A hybrid mobile weather application.",
+	"keywords": [
+		"Weather",
+		"Mobile app",
+		"Hybrid app",
+		"Weather app",
+		"Weather forecast",
+		"Hybrid application",
+		"Mobile application",
+		"Weather application",
+		"React native application"
+	],
+	"homepage": "https://atanas.info/portfolio/open-source/weathex",
+	"bugs": {
+		"url": "https://github.com/scriptex/weathex/issues",
+		"email": "hi@atanas.info"
+	},
+	"license": "Unlicensed",
+	"author": "Atanas Atanasov <hi@atanas.info> (https://atanas.info)",
+	"funding": "https://github.com/sponsors/scriptex",
 	"main": "node_modules/expo/AppEntry.js",
+	"repository": {
+		"type": "git",
+		"url": "github:scriptex/weathex"
+	},
 	"scripts": {
 		"start": "expo start",
 		"android": "expo start --android",
@@ -17,14 +41,19 @@
 		"react-dom": "18.2.0",
 		"react-native": "0.70.6",
 		"react-native-app-intro-slider": "4.0.4",
+		"react-native-circular-progress-indicator": "4.4.0",
+		"react-native-gesture-handler": "2.8.0",
+		"react-native-reanimated": "2.13.0",
 		"react-native-svg": "13.6.0",
 		"react-native-web": "~0.18.9"
 	},
 	"devDependencies": {
 		"@babel/core": "7.20.5",
+		"@babel/preset-env": "7.20.2",
 		"@types/react": "~18.0.14",
 		"@types/react-native": "~0.70.6",
 		"babel-plugin-module-resolver": "4.1.0",
+		"expo-modules-autolinking": "1.0.0",
 		"react-native-svg-transformer": "1.0.0",
 		"typescript": "4.9.3"
 	},

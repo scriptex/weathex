@@ -20,7 +20,8 @@ module.exports = function (api) {
 						'@components': './components'
 					}
 				}
-			]
+			],
+			'react-native-reanimated/plugin'
 		]
 	};
 };
