@@ -48,3 +48,5 @@ yarn ios
 ## Build for production
 
 > TODO
+
+## Design [here](https://www.figma.com/file/nusS6ZdpbSP0U6ykhGgBZP/Weather-App-Design-(Community)?node-id=0%3A21&t=SJP2BwdIIPVw2rbo-0)
