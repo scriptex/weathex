@@ -2158,9 +2158,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@~18.0.14":
-  version "18.0.35"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.35.tgz#192061cb1044fe01f2d3a94272cd35dd50502741"
-  integrity sha512-6Laome31HpetaIUGFWl1VQ3mdSImwxtFZ39rh059a1MNnKGqBpC88J6NJ8n/Is3Qx7CefDGLgf/KhN/sYCf7ag==
+  version "18.0.37"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.37.tgz#7a784e2a8b8f83abb04dc6b9ed9c9b4c0aee9be7"
+  integrity sha512-4yaZZtkRN3ZIQD3KSEwkfcik8s0SWV+82dlJot1AbGYHCzJkWP3ENBY6wYeDRmKZ6HkrgoGAmR2HqdwYGp6OEw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -3626,17 +3626,6 @@ expo-keep-awake@~12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-12.0.1.tgz#19c5ab55391394ded3f6c262b0707c7140658a11"
   integrity sha512-hqeCnb4033TyuZaXs93zTK7rjVJ3bywXATyMmKmKkLEsH2PKBAl/VmjlCOPQL/2Ncqz6aj7Wo//tjeJTARBD4g==
-
-expo-modules-autolinking@1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/expo-modules-autolinking/-/expo-modules-autolinking-1.1.2.tgz#a81c65c63bd281922410c6d8c3ad6255b6305246"
-  integrity sha512-oOlkAccVnHwwR5ccvF/F/x4Omj9HWzSimMUlIVz0SVGdNBEqTPyn0L/d4uIufhyQbEWvrarqL8o5Yz11wEI0SQ==
-  dependencies:
-    chalk "^4.1.0"
-    commander "^7.2.0"
-    fast-glob "^3.2.5"
-    find-up "^5.0.0"
-    fs-extra "^9.1.0"
 
 expo-modules-autolinking@1.2.0:
   version "1.2.0"
