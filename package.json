@@ -33,8 +33,8 @@
 		"web": "expo start --web"
 	},
 	"dependencies": {
-		"expo": "~50.0.0",
-		"expo-font": "11.10.2",
+		"expo": "~51.0.0",
+		"expo-font": "12.0.4",
 		"expo-splash-screen": "0.26.3",
 		"expo-status-bar": "~1.11.0",
 		"react": "18.3.1",
