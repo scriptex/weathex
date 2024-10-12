@@ -13,5 +13,5 @@
 	"major": {
 		"automerge": false
 	},
-  "schedule": ["* * 1,15 * *"]
+    "schedule": ["* * 1,15 * *"]
 }
