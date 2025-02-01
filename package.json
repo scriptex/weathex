@@ -39,7 +39,7 @@
 		"expo-status-bar": "~2.0.0",
 		"react": "19.0.0",
 		"react-dom": "19.0.0",
-		"react-native": "0.76.2",
+		"react-native": "0.77.0",
 		"react-native-app-intro-slider": "4.0.4",
 		"react-native-circular-progress-indicator": "4.4.2",
 		"react-native-gesture-handler": "2.22.0",
