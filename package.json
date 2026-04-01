@@ -55,7 +55,7 @@
 		"babel-plugin-module-resolver": "5.0.2",
 		"expo-modules-autolinking": "55.0.9",
 		"react-native-svg-transformer": "1.5.3",
-		"typescript": "5.9.3"
+		"typescript": "6.0.2"
 	},
 	"private": true
 }
