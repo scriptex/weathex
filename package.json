@@ -43,7 +43,7 @@
 		"react-native-app-intro-slider": "4.0.4",
 		"react-native-circular-progress-indicator": "4.4.2",
 		"react-native-gesture-handler": "2.30.0",
-		"react-native-reanimated": "4.2.2",
+		"react-native-reanimated": "4.3.0",
 		"react-native-svg": "15.15.3",
 		"react-native-web": "~0.21.0"
 	},
