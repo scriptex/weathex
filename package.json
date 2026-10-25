@@ -34,11 +34,11 @@
 	},
 	"dependencies": {
 		"expo": "~58.0.0",
-		"expo-font": "58.0.8",
-		"expo-splash-screen": "58.0.9",
+		"expo-font": "58.0.10",
+		"expo-splash-screen": "58.0.11",
 		"expo-status-bar": "~58.0.0",
-		"react": "19.3.0",
-		"react-dom": "19.3.0",
+		"react": "19.3.1",
+		"react-dom": "19.3.1",
 		"react-native": "0.88.0",
 		"react-native-app-intro-slider": "4.0.4",
 		"react-native-circular-progress-indicator": "4.4.2",
@@ -48,12 +48,12 @@
 		"react-native-web": "~0.21.0"
 	},
 	"devDependencies": {
-		"@babel/core": "8.0.6",
-		"@babel/preset-env": "8.0.6",
+		"@babel/core": "8.0.9",
+		"@babel/preset-env": "8.0.7",
 		"@types/react": "~19.3.0",
 		"@types/react-native": "~0.73.0",
 		"babel-plugin-module-resolver": "5.0.3",
-		"expo-modules-autolinking": "58.0.13",
+		"expo-modules-autolinking": "58.0.15",
 		"react-native-svg-transformer": "1.5.3",
 		"typescript": "7.0.2"
 	},
